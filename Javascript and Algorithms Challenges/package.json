@@ -1,0 +1,18 @@
+{
+  "name": "javascript-and-algorithms-challenges",
+  "version": "1.0.0",
+  "description": "This are series of challenges that have solved by the owner of this repo and helps in easing coding stress, by cloning the repo and utilizing which one you would be need, I would be updating this repo as time goes on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "caesars-cipher",
+    "cash-register",
+    "palindrome-checker",
+    "roman-numeral-converter",
+    "telephone-number-validator"
+  ],
+  "author": "Yusuf Abdullahi",
+  "license": "ISC"
+}
